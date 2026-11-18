@@ -1,0 +1,7 @@
+{
+  "name": "landing-bonus-il-divano-puo-aspettare",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page per il bonus Mazzo degli Imprevisti",
+  "engines": { "node": ">=18" }
+}
